@@ -1,8 +1,8 @@
-# Fase 3 - Fundamentos de Programación (UNAD)
+# Fase 5 - Fundamentos de Programación 
 
 ## Problema 3: Auditoría de Inventario (Matriz)
 
-Este proyecto corresponde a la **Fase 3** del curso **Fundamentos de Programación** de la Universidad Nacional Abierta y a Distancia (UNAD).
+Este proyecto corresponde a la **Fase 5** del curso **Fundamentos de Programación** 
 
 El programa fue desarrollado en **Python** y tiene como objetivo auditar un inventario utilizando una **matriz**, para determinar qué productos necesitan ser reabastecidos.
 
